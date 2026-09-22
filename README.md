@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-face.svg" width="100%" alt="Gianagni line art profile"/>
+<img src="./profile-face.png" width="100%" alt="Gianagni line art profile"/>
 
 # hi, i'm **Dito** 👋
 
