@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Hi, I'm Dito — flow first, code second"/>
+<img src="./header.svg" width="100%" alt="Hi, I'm Dito — flow first, code second"/>
 
 <br/><br/>
 
@@ -18,8 +18,8 @@
 
 ## `01` ABOUT ME
 
-**Manajemen Informatika — Politeknik LP3I Jakarta.**
-I build web systems, products, and interfaces — usually starting from the **flow**, not the code.
+**Manajemen Informatika - Politeknik LP3I Jakarta.**
+I build web systems, products, and interfaces usually starting from the **flow**, not the code.
 I like turning messy ideas into structured systems, especially projects where the interface is only one part of a bigger system.
 
 > **I don't want to just make a website that works.
@@ -99,5 +99,5 @@ goal:
 <br/>
 
 <div align="center">
-<img src="./assets/footer.svg" width="100%" alt="Let's build something."/>
+<img src="./footer.svg" width="100%" alt="Let's build something."/>
 </div>
