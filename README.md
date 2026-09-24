@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<img src="./profile-face.png" width="200" alt="Dito — line art profile"/>
+<img src="./profile-face.png" width="200" alt="Dito — line art profile"/> 
 
 <br/><br/>
 
