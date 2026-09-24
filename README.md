@@ -18,7 +18,7 @@
 
   <p>🎓 <b>Manajemen Informatika</b> · Politeknik LP3I Jakarta</p>
 
-  <!-- Social Badges with Custom Palette -->
+  <!-- Social Badges -->
   <p>
     <a href="https://gianagni.my.id"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio"/></a>
     <a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
