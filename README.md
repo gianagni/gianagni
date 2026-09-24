@@ -4,7 +4,12 @@
 
 <br/><br/>
 
-<img src="./profile-face.png" width="200" alt="Dito — line art profile"/> 
+<img src="./profile-face.png" width="200" alt="Dito — line art profile"/> 
+
+<br/><br/>
+
+<!-- ANIMASI DITAMBAHKAN DI SINI: Typing text dengan warna palet Biru (#5CC8FF) -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&pause=1500&color=5CC8FF&center=true&vCenter=true&width=450&lines=flow+first%2C+code+second.;system+thinker+%2B+product+builder.;turning+messy+ideas+into+structures." alt="Typing SVG" /></a>
 
 <br/><br/>
 
@@ -32,18 +37,18 @@ I like turning messy ideas into structured systems, especially projects where th
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'fontFamily':'monospace','fontSize':'15px','lineColor':'#888888','primaryTextColor':'#000000'}}}%%
 flowchart LR
-    A[PROBLEM]:::yellow --> B[USER FLOW]:::white
-    B --> C[SYSTEM LOGIC]:::blue
-    C --> D[DATA STRUCTURE]:::white
-    D --> E[INTERFACE]:::pink
-    E --> F[IMPLEMENTATION]:::white
-    F --> G[FEEDBACK]:::yellow
-    G -. iterate .-> A
+    A[PROBLEM]:::yellow --> B[USER FLOW]:::white
+    B --> C[SYSTEM LOGIC]:::blue
+    C --> D[DATA STRUCTURE]:::white
+    D --> E[INTERFACE]:::pink
+    E --> F[IMPLEMENTATION]:::white
+    F --> G[FEEDBACK]:::yellow
+    G -. iterate .-> A
 
-    classDef yellow fill:#FFE14D,stroke:#000,stroke-width:3px,color:#000,font-weight:bold
-    classDef blue   fill:#5CC8FF,stroke:#000,stroke-width:3px,color:#000,font-weight:bold
-    classDef pink   fill:#FF6B9D,stroke:#000,stroke-width:3px,color:#000,font-weight:bold
-    classDef white  fill:#FFFFFF,stroke:#000,stroke-width:3px,color:#000,font-weight:bold
+    classDef yellow fill:#FFE14D,stroke:#000,stroke-width:3px,color:#000,font-weight:bold
+    classDef blue   fill:#5CC8FF,stroke:#000,stroke-width:3px,color:#000,font-weight:bold
+    classDef pink   fill:#FF6B9D,stroke:#000,stroke-width:3px,color:#000,font-weight:bold
+    classDef white  fill:#FFFFFF,stroke:#000,stroke-width:3px,color:#000,font-weight:bold
 ```
 
 ---
@@ -80,20 +85,20 @@ flowchart LR
 
 ```yaml
 focus:
-  - full-stack development
-  - system thinking
-  - product building
-  - learning by shipping
+  - full-stack development
+  - system thinking
+  - product building
+  - learning by shipping
 
 building:
-  - Lahena
-  - personal projects
-  - small experiments
+  - Lahena
+  - personal projects
+  - small experiments
 
 goal:
-  - build useful things
-  - understand the system behind them
-  - keep getting better at both sides: product + code
+  - build useful things
+  - understand the system behind them
+  - keep getting better at both sides: product + code
 ```
 
 <br/>
